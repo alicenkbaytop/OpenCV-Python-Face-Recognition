@@ -11,21 +11,21 @@
 
 ## 💻 Folders 💻
 1. [Image Processing Basics using OpenCV](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/image_processing_with_opencv)
- * 
- * 
- * 
- * 
- * 
- * 
- *
- * 
- * 
- * 
+   * 
+   * 
+   * 
+   * 
+   * 
+   * 
+   *
+   * 
+   * 
+   * 
  
 2. [Face Detection for Beginners](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
- * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
- * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
- * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
+   * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
+   * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
+   * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
 
 ## ⚡ Requirements ⚡
 
