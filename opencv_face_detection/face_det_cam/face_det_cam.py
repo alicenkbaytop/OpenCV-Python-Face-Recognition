@@ -1,0 +1,36 @@
+# face detection from cam haar cascade
+
+import cv2 # importing opencv (it means open source computer vision)
+
+# importing haar cascade classifier
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+
+def detect(frame):
+    # converting BGR to RGB ıt means converting ıts normal color
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)    
+    faces = face_cascade.detectMultiScale(gray, 1.3, 5) # common scale 
+    
+    for (x, y, w, h) in faces:
+        cv2.rectangle(frame, (x, y), (x+w, y+h), (255, 0, 0), 2)
+        # drawing rectangle placement -> image, beginning, finish, color, thickness
+        roi_gray = gray[y:y+h, x:x+w] # border rectangle
+        roi_color = frame[y:y+h, x:x+w] # border rectangle
+        eyes = eye_cascade.detectMultiScale(roi_gray, 1.1, 3) # common scale
+        
+        for (ex, ey, ew, eh) in eyes:
+            cv2.rectangle(roi_color, (ex, ey), (ex+ew, ey+eh), (0, 255, 0), 2)
+            # drawing rectangle placement -> image, beginning, finish, color, thickness
+    return frame
+
+video_capture = cv2.VideoCapture(0) # get a video capture object for the camera
+
+while True:
+    ret, frame = video_capture.read() # read what comes from the video
+    canvas = detect(frame) # called the function
+    cv2.imshow('Web Cam', canvas) # showing each frame
+    if cv2.waitKey(1) & 0xFF == ord('q'): # when you press q ıt'll close
+        break
+    
+video_capture.release() # close video capture
+cv2.destroyAllWindows() # close all pages
