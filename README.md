@@ -23,8 +23,14 @@
    * [Perspective Warping](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/image_processing_with_opencv/perspective_warping)
    * [Blending Images](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/image_processing_with_opencv/blending_images)
    * ...
- 
-2. [Face Detection for Beginners](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
+
+2. [Object Detection Basics using OpenCV](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection)
+   * [Contour Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/contour_detection)
+   * [Corner Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/corner_detection)
+   * [Edge Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/edge_detection)
+   * ...
+
+3. [Face Detection for Beginners](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
    * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
    * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
    * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
