@@ -30,7 +30,7 @@
    * [Edge Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/edge_detection)
    * ...
 
-3. [Face Detection for Beginners](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
+3. [Project: Face and Eyes Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
    * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
    * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
    * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
