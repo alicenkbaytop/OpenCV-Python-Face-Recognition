@@ -28,6 +28,9 @@
    * [Contour Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/contour_detection)
    * [Corner Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/corner_detection)
    * [Edge Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/edge_detection)
+   * [Template_Matching](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/template_matching)
+   * [Feature_Matching](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/feature_matching)
+   * [Project: Color Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/color_detection_with_opencv)
    * ...
 
 3. [Project: Face and Eyes Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
