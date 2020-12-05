@@ -31,12 +31,12 @@
    * [Template_Matching](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/template_matching)
    * [Feature_Matching](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/feature_matching)
    * [Project: Color Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/color_detection_with_opencv)
-   * ...
-
-3. [Project: Face and Eyes Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
-   * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
-   * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
-   * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
+   * [Project: Pedestrian Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_object_detection/pedestrian_detection)
+   * [Project: Face and Eyes Detection](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection)
+     * [From Video](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_vid)
+     * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
+     * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
+   * ...  
 
 ## ⚡ Requirements ⚡
 
