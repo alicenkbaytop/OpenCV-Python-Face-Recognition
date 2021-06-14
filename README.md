@@ -37,7 +37,7 @@
      * [From Camera](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_cam)
      * [From Picture](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/opencv_face_detection/face_det_pic)
    * ...  
-
+- [Project: Angle Finder](https://github.com/alicenkbaytop/Computer-Vision-OpenCV-Python/tree/main/angle_finder)
 ## ⚡ Requirements ⚡
 
 There are some general programming language, library or service requirements for the Projects. The general requirements are as follows.
